@@ -32,7 +32,7 @@ Opportunity to network with other Software Professionals and keep in touch with 
 ## December 28th 2022 Semgrep SAST for client-side JavaScript
 ### Denis Podgurskii, Director of Product Security Research at Contrast Security
 
-Time & Place: 28 Feb 2022 - [Meetup]([https://www.meetup.com/OWASP-Belfast/events/289749298/](https://www.meetup.com/OWASP-Belfast/events/289749298/))
+Time & Place: 28 Feb 2022 - [Meetup](https://www.meetup.com/OWASP-Belfast/events/289749298/)
 
 ## February 10th 2022 Zero Trust for API Risk Management
 ### Baljeet Malhotra, Founder & CEO at TeejLab Inc.
