@@ -29,6 +29,11 @@ Opportunity to network with other Software Professionals and keep in touch with 
 
 ## Upcoming Meeting
 
+## Aptil 18th 2024 JWT series, Part 1 - introduction of attack vectors.
+### Denis Podgurskii, OWASP Belfast
+
+Time & Place: 18 April 2024 - [Meetup](https://www.meetup.com/owasp-belfast/events/300347348/)
+
 ## December 28th 2022 Semgrep SAST for client-side JavaScript
 ### Denis Podgurskii, Director of Product Security Research at Contrast Security
 
