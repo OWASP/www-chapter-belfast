@@ -1,0 +1,31 @@
+community:
+  - name: chapter-belfast
+    platform: slack
+    url: https://owasp.slack.com/archives/C065PPKEY
+    description: Official local channel for OWASP Belfast. Introduce yourself, ask questions, and seek knowledge.
+leaders:
+  - name: Philip O'Kane
+    email: philip.okane@owasp.org
+  - name: Denis Podgurskii
+    email: denis.podgurskii@owasp.org
+    github: DenisPodgurskii
+  - name: Gary Robinson
+    email: gary.robinson@owasp.org
+location:
+  country: United Kingdom
+  country_code: GB
+  region: Northern Ireland
+  city: Belfast
+  latitude: 54.596391
+  longitude: -5.9301829
+meetup_group: OWASP-Belfast
+name: OWASP Belfast
+repositories:
+  - name: www-chapter-belfast
+    url: https://github.com/OWASP/www-chapter-belfast
+    description: OWASP Foundation Web Repository
+tags:
+  - pastevents
+  - supporter
+  - custom-tag-1
+website: https://owasp.org/www-chapter-belfast
